@@ -17,7 +17,6 @@ int main() {
     for (long long i=n;i<2*n;i++){
         sum2+=mas[i];
     }
-    cout << sum1 << " " << sum2 << endl;
     if (sum1!=sum2){
         for (long long i=0;i<2*n;i++){
             cout << mas[i] << " ";
