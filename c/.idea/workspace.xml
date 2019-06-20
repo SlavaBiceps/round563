@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true" buildAllGenerated="true">
     <generated>
-      <config projectName="b" targetName="b" />
+      <config projectName="c" targetName="c" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,7 +11,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a3aba0bc-e5ee-4de6-8539-a6c62018e1dd" name="Default" comment="" />
+    <list default="true" id="791f67d1-9f47-40a8-8e48-e6662251d1b4" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,7 +32,7 @@
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
-              <caret line="14" column="20" selection-end-line="20" selection-end-column="1" />
+              <caret line="14" column="25" lean-forward="true" selection-end-line="20" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -55,7 +55,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="580" />
     <option name="width" value="835" />
     <option name="height" value="715" />
@@ -86,12 +86,12 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.b">
-    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="b" RUN_TARGET_NAME="b" EXPLICIT_BUILD_TARGET_NAME="all" />
-    <configuration name="b" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="b" TARGET_NAME="b" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="b" RUN_TARGET_NAME="b" />
+  <component name="RunManager" selected="Application.c">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c" RUN_TARGET_NAME="c" EXPLICIT_BUILD_TARGET_NAME="all" />
+    <configuration name="c" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c" TARGET_NAME="c" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c" RUN_TARGET_NAME="c" />
     <list>
       <item itemvalue="Application.Build All" />
-      <item itemvalue="Application.b" />
+      <item itemvalue="Application.c" />
     </list>
   </component>
   <component name="SvnConfiguration">
@@ -99,28 +99,27 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="a3aba0bc-e5ee-4de6-8539-a6c62018e1dd" name="Default" comment="" />
-      <created>1561013590282</created>
+      <changelist id="791f67d1-9f47-40a8-8e48-e6662251d1b4" name="Default" comment="" />
+      <created>1561015076274</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1561013590282</updated>
-      <workItem from="1561013591665" duration="1257000" />
+      <updated>1561015076274</updated>
+      <workItem from="1561015077585" duration="786000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1257000" />
+    <option name="totallyTimeSpent" value="786000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="580" y="0" width="835" height="715" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.41636142" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" weight="0.3290938" />
       <window_info anchor="bottom" id="CMake" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.345" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
@@ -148,7 +147,7 @@
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
-          <caret line="14" column="20" selection-end-line="20" selection-end-column="1" />
+          <caret line="14" column="25" lean-forward="true" selection-end-line="20" selection-end-column="1" />
         </state>
       </provider>
     </entry>
